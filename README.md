@@ -26,5 +26,12 @@ Projetar uma fonte de tensão ajustável que varie de 3V a 12V e que suporte pel
 |Transistor NPN BC635|Este transistor é usado para manter a tensão desejada de até 12V na carga a partir da tensão provinda do potenciômetro e, ao mesmo tempo, permite que a carga desejada de 100mA passe por ele.|[R$ 0,33](https://www.baudaeletronica.com.br/transistor-npn-bc635.html)|
 |**Total**||**R$ 19,71**|
 
+## Esquemático no Eagle 
+
+![Esquemático no Eagle](esquematico_eagle.png)
+
+## PCB Eagle
+
+![PCB Eagle](PCB_eagle.png)
 
 
