@@ -23,14 +23,14 @@ Projetar uma fonte de tensão ajustável que varie de 3V a 12V e que suporte pel
 |Resistor 5K6 (1/4W)|O papel deste resistor é limitar a tensão mínima fornecida à carga quando o potênciometro está no seu máximo.|[R$ 0,08](https://www.baudaeletronica.com.br/resistor-5k6-5-1-4w.html)|
 |Resistor 560R (1/4W)|Usado para ligar o LED difuso no final do circuito. Especificação do fabricante para uma tensão de 12V.|[R$ 0,08](https://www.baudaeletronica.com.br/resistor-560r-5-1-4w.html)|
 |LED difuso 3mm verde|Ligado ao fim do circuito para indicar que a fonte está ligada. Além disso, sua intensidade dirá respeito a tensão que passa pela carga, que variará de 3V a 12V.|[R$ 0,24](https://www.baudaeletronica.com.br/led-difuso-3mm-verde.html)|
-|Transistor NPN BC635|Este transistor é usado para manter a tensão desejada de até 12V na carga a partir da tensão provinda do potenciômetro e, ao mesmo tempo, permite que a carga desejada de 100mA passe por ele.|[R$ 0,33](https://www.baudaeletronica.com.br/transistor-npn-bc635.html)|
+|Transistor NPN BC635|Este transistor é usado para manter a tensão desejada de até 12V na carga a partir da tensão provinda do potenciômetro e, ao mesmo tempo, permitir a passagem da corrente desejada de 100mA.|[R$ 0,33](https://www.baudaeletronica.com.br/transistor-npn-bc635.html)|
 |**Total**||**R$ 19,71**|
 
 ## Esquemático no Eagle 
 
 ![Esquemático no Eagle](esquematico_eagle.png)
 
-## PCB Eagle
+## PCB no Eagle
 
 ![PCB Eagle](PCB_eagle.png)
 
