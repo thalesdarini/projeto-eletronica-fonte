@@ -4,6 +4,7 @@
 Projetar uma fonte de tensão ajustável que varie de 3V a 12V e que suporte pelo menos 100mA.
 
 **Link do circuito no Falstad: http://tinyurl.com/y722ua49**
+![Circuito no Falstad](circuit_falstad.png)
 
 ## Componentes utilizados
 
